@@ -5,4 +5,4 @@ def password(p):
     else:
         return "ACCESS DENIED"
 
-print(password("puppydog1"))
+
